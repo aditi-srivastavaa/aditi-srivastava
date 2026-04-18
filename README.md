@@ -46,10 +46,30 @@ doing work that actually matters
 
 ---
 
+## > matrix and mr.robot are my fav 
+
+
+```md
+```bash
+$ whoami
+aditi
+
+$ current_focus
+learning ai && building in public
+
+$ life_status
+still loading...
+
+$ fuel
+coffee ☕
+
+---
+
 ## ✧ stats
 <p>
 <img src="https://streak-stats.demolab.com?user=aditi-srivastavaa&theme=dracula"/>
 </p>
+
 
 
 
