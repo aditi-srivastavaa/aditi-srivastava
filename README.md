@@ -46,7 +46,11 @@ doing work that actually matters
 
 ---
 ![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-srivastavaa&layout=compact&theme=dracula)## ✧ stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-srivastavaa&layout=compact&theme=dracula)
+
+---
+
+## ✧ stats
 
 <p align="center">
 
