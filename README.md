@@ -46,10 +46,15 @@ doing work that actually matters
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-srivastavaa&layout=compact&theme=tokyonight)## ✧ stats
 
-![Aditi's GitHub stats](...)
-![GitHub Streak](...)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=tokyonight)
 
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=aditi-srivastavaa&theme=tokyonight"/>
+
+</p>
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=tokyonight"/>
