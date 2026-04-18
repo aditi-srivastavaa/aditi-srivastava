@@ -31,7 +31,6 @@ coffee. a lot of it.
 
 ## ✧ currently
 learning ai + creating content
-
 building in public  
 figuring things out as i go  
 
@@ -43,7 +42,21 @@ building something big someday
 doing work that actually matters  
 
 ---
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-srivastavaa&layout=compact&theme=tokyonight)## ✧ stats
+
+![Aditi's GitHub stats](...)
+![GitHub Streak](...)
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aditi-srivastavaa&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=aditi-srivastavaa&theme=tokyonight"/>
+
+</p>
 <p align="left">
 
 
